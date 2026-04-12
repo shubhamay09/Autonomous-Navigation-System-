@@ -57,6 +57,10 @@ The system performs **real-time path replanning** in response to obstacles and c
 ![Complex](images/images05_complex_path.png)
 
 ---
+## 🎥 Demo Video
+
+[▶️ Watch Demo](./Autonomous Navigation System 2026-04-13 00-09-12.mp4)
+
 
 ## 🛠️ Tech Stack
 
