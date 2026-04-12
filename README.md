@@ -59,7 +59,9 @@ The system performs **real-time path replanning** in response to obstacles and c
 ---
 ## 🎥 Demo Video
 
-[![Watch Demo](https://img.youtube.com/vi/vkPnfuIM0Xg/0.jpg)](https://www.youtube.com/watch?v=vkPnfuIM0Xg)
+## 🎥 Demo Video
+
+▶️ Watch here: https://www.youtube.com/shorts/vkPnfuIM0Xg
 
 
 ## 🛠️ Tech Stack
