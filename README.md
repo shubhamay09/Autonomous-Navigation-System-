@@ -57,7 +57,6 @@ The system performs **real-time path replanning** in response to obstacles and c
 ![Complex](images/images05_complex_path.png)
 
 ---
-## 🎥 Demo Video
 
 ## 🎥 Demo Video
 
