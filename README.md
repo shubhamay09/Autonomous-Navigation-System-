@@ -105,7 +105,3 @@ python main.py
 * Multi-agent path coordination
 
 ---
-
-## 👨‍💻 Author
-
-Varda Kunde
